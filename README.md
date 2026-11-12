@@ -6,7 +6,7 @@ Welcome to the **KK Audio Lab** Application team! You have just joined the compa
 
 We are preparing to launch our **KK Audio Lab Music Streaming Portal**—a full-stack application built with an **ASP.NET Core 10 Web API** backend (powered by **LiteDB** and **HTTP 206 byte-range audio streaming**) and a **Blazor WebAssembly** frontend.
 
-However, as soon as you sit down at your desk, your Lead Developer rushes over with an urgent crisis: right before today's release, the previous intern pushed a broken commit to the `main` branch and left for vacation. With the live product demonstration happening in less than two hours, your Lead Developer is counting on you to step in and rescue the launch!
+However, as soon as you sit down at your desk, your Lead Developer rushes over with an urgent crisis: right before today's release, the previous intern pushed a broken commit to the `master` branch and left for vacation. With the live product demonstration happening in less than two hours, your Lead Developer is counting on you to step in and rescue the launch!
 
 Currently, when the team tries to run the project:
 1. **The solution fails to compile (`dotnet build` fails with 5 build errors).**
